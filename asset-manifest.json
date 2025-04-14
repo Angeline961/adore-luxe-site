@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adore-luxe-site/static/css/main.f855e6bc.css",
+    "main.js": "/adore-luxe-site/static/js/main.a91a2d7f.js",
+    "static/js/453.55c4cfdb.chunk.js": "/adore-luxe-site/static/js/453.55c4cfdb.chunk.js",
+    "index.html": "/adore-luxe-site/index.html",
+    "main.f855e6bc.css.map": "/adore-luxe-site/static/css/main.f855e6bc.css.map",
+    "main.a91a2d7f.js.map": "/adore-luxe-site/static/js/main.a91a2d7f.js.map",
+    "453.55c4cfdb.chunk.js.map": "/adore-luxe-site/static/js/453.55c4cfdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a91a2d7f.js"
+  ]
+}
